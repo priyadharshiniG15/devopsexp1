@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: devlab2
+pool: exp1
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
