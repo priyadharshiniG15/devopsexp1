@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool: default
-
+pool: ex1
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
